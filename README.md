@@ -15,7 +15,7 @@
 </div><br>
 
 ## 🎯 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Back-end, mas com um pé no Front-end também.
-## 💡 Estou em constante busca por novas oportunidades na área de tecnologia, especialmente aquelas que envolvem inovação, desafios criativos e projetos que façam a diferença. Tenho paixão por transformar ideias em soluções inteligentes e funcionais, sempre com o objetivo de evoluir como desenvolvedor e colaborar entre equipes. Se for pra construir algo inovador, pode me chamar! Estou pronto para somar.
+
 
 ### Gmail para contato📧
 ## • kaue.guimaraes01@gmail.com
