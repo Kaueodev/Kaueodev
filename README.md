@@ -1,9 +1,8 @@
 
-
 ### Olá meu nome é Kaue Guimaraes👋 
+### Desenvolvedor Back-end. Confira meu Linkedin a baixo ⬇️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-guimaraes-b71918347/)
 
-![Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaueodev&show_icons=true&theme=radical)
 
 ### Tecnologias     que uso no meu dia a dia💻
 
@@ -20,4 +19,3 @@
 
 ### Gmail para contato📧
 ## • kaue.guimaraes01@gmail.com
-
